@@ -10,4 +10,5 @@ for the list of options provided. The client could also exit the program by ente
 
 Question 2:
 Is the library database management system. The task is to create a simple Library Database Management System using a C program that connects to a MySQL database. The ./library_db.sql file
-holds the database for the books. Which would also call the database library_db. The library  
+holds the database for the books. Which would also call the database ./library_db. The library_db file allows you to coonnect to the MySQL database. The file also allows you to add books to the 
+catalog, view books, search books, and exit the program.   
