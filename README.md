@@ -9,3 +9,5 @@ that city. The server will then provide the description of the weather forcast f
 for the list of options provided. The client could also exit the program by entering exit and it will gracefully terminate itself and disconnect from the server. 
 
 Question 2:
+Is the library database management system. The task is to create a simple Library Database Management System using a C program that connects to a MySQL database. The ./library_db.sql file
+holds the database for the books. Which would also call the database library_db. The library  
